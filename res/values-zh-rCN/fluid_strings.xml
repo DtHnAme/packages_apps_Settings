@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2020 FluidProject
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+         http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux 状态</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <!-- Fluid Settings -->
+    <string name="fluid_settings_title">Fluid自定义</string>
+    <string name="fluid_settings_summary">保持流动！</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">滑动截图</string>
+    <string name="three_finger_gesture_summary">用三个手指向下滑动以截图</string>
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">已保存的耳机</string>
+    <!-- Navbar length -->
+    <string name="navbar_length">手势栏长度</string>
+    <string name="hidden_label">隐藏</string>
+    <string name="long_label">长</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">平台</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">总内存</string>
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">链接铃声 &amp; 通知音量</string>
+    <!-- Backup Transport selection settings menu and activity title -->
+    <string name="backup_transport_setting_label">更改备份提供商</string>
+    <string name="backup_transport_title">选择备份提供商</string>
+    <!-- Search keywords -->
+    <string name="keywords_notification_log">通知和通知日志</string>
+    <!-- Fluid Customisation -->
+    <string name="fluid_customisation_title">Fluid自定义</string>
+    <string name="fluid_customisation_summary">保持流动！</string>
+    <!-- Back Gestures -->
+    <string name="smallest_tick_label">关闭</string>
+    <string name="greatest_tick_label">半个屏幕</string>
+    <string name="gesture_back_deadzone_label">死亡区域</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">快速解锁 (BETA)</string>
+    <string name="unlock_quick_unlock_control_summary">输入正确的 PIN/密码时自动解锁</string>
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">充电时始终开启</string>
+    <string name="doze_on_charge_summary">充电时全部显示Doze屏幕</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">屏幕截图声音</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019s VPN 连接到上游连接</string>
+    <!-- Fluid version page strings -->
+    <string name="fluid_version_branding">fluid</string>
+    <string name="fluid_version_device">设备</string>
+    <string name="fluid_version_cpu">CPU</string>
+    <string name="fluid_version_resolution">屏幕分辨率</string>
+    <string name="fluid_version_battery">电池</string>
+    <string name="fluid_version_ram">内存</string>
+    <string name="fluid_version_maintainer">维护者</string>
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">快速手电筒</string>
+    <string name="power_button_torch_summary">当屏幕关闭时，长按电源键将开启手电筒</string>
+    <!-- FastCharge feature -->
+    <string name="fast_charging_title">快速充电</string>
+    <string name="fast_charging_summary">禁用以降低设备在充电时产生的热量或延长电池的寿命</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">允许网络访问权限</string>
+    <string name="data_usage_app_restrict_all_summary">启用网络使用量</string>
+    <string name="data_usage_app_restrict_mobile">移动数据</string>
+    <string name="data_usage_app_restrict_mobile_summary">启用移动数据使用量</string>
+    <string name="data_usage_app_restrict_vpn">VPN 数据</string>
+    <string name="data_usage_app_restrict_vpn_summary">启用VPN 数据使用量</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 数据</string>
+    <string name="data_usage_app_restrict_wifi_summary">启用 Wi\u2011Fi 数据的使用情况</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">是否清除缓存数据？</string>
+    <string name="battery_stats_message">电池使用数据将会丢失</string>
+    <string name="battery_stats_clear">@string/proxy_clear_text</string>
+    <!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">删除现有的面扫描并创建新扫描</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">重做人脸扫描</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">屏幕锁定，指纹，人脸解锁</string>
+    <string name="face_redo_confirm_btn">重做</string>
+    <string name="face_redo_warning_msg">您想要移除现有的面部扫描并创建一个新面部扫描吗？</string>
+    <!-- DC Dimming -->
+    <string name="dc_dimming_title">DC 调光</string>
+    <string name="dc_dimming_info">在低光条件下减少眼睛紧张，但可能导致图像质量下降和色彩生产差。</string>
+    <string name="dc_dimming_auto_mode_title">时间表</string>
+    <string name="dc_dimming_mode_brightness">当亮度低于阈值时开启</string>
+    <string name="dc_dimming_mode_full">依赖时间和亮度</string>
+    <string name="dc_dimming_brightness_title">亮度阈值</string>
+    <string name="dc_dimming_brightness_disabled">禁用</string>
+    <string name="dc_dimming_restore_auto_mode">恢复自动模式</string>
+    <string name="dc_dimming_brightness_info">仅当平均亮度低于阈值时激活DC 调光</string>
+    <string name="dc_dimming_off_auto_mode_auto">将自动开启</string>
+    <string name="dc_dimming_on_auto_mode_auto">将自动关闭</string>
+    <string name="keywords_display_dc_dimming">dc 调光, 闪烁, 眼睛, 紧张状态</string>
+    <!-- App Lock -->
+    <string name="applock_title">应用锁</string>
+    <string name="applock_locked">已锁定</string>
+    <string name="applock_unlocked">未锁定</string>
+    <string name="applock_locked_apps">锁定的应用</string>
+    <string name="applock_unlocked_apps">未锁定的应用</string>
+    <string name="applock_show_only_on_wake">仅验证一次</string>
+    <string name="applock_show_only_on_wake_on_summary">一旦验证，应用程序将保持解锁直到屏幕关闭</string>
+    <string name="applock_show_only_on_wake_off_summary">一旦验证，应用程序在退出后解锁15秒</string>
+    <string name="applock_notification_info">您可以通过点击每个锁定应用首选项中显示的通知图标来显示/隐藏每个应用的通知内容</string>
+    <string name="applock_show_notif">显示所有通知内容</string>
+    <string name="applock_hide_notif">隐藏通知内容</string>
+    <string name="applock_setup">设置应用锁</string>
+    <string name="applock_overlay_summary">此功能不可用，因为此应用程序已被锁定</string>
+    <plurals name="applock_summary">
+        <item quantity="other">%d 个应用已锁定</item>
+    </plurals>
+    <string name="keywords_applock_settings">应用锁，应用锁屏，应用锁定</string>
+</resources>
